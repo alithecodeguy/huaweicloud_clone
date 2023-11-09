@@ -4,5 +4,7 @@
   "singleQuote": true,
   "tabWidth": 2,
   "useTabs": false,
-  "endOfLine": "auto"
+  "endOfLine": "auto",
+  "plugins": ["prettier-plugin-tailwindcss"],
+  "pluginSearchDirs": false
 }
